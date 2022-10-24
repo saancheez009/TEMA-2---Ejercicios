@@ -20,7 +20,7 @@ public class Ejercicio7 {
 		minutos=sc.nextInt(); //Le decimos al sistema que lea los minutos introducidos por el usuario
 		segundos=sc.nextInt(); //Le decimos al sistema que lea los segundos introducidos por el usuario 
 		//Declaramos que si los minutos y segundos son igual a 59, el sistema añadirá una hora ya que si a 59 seg le sumas un seg da un minuto y si tenemos 59 min y le sumamos un minuto, nos resulta una hora
-		if (minutos==59 && segundos==59) {
+		if (horas<24 && minutos==59 && segundos==59) {
 			System.out.println("La hora introducida más un segundo es: "+(horas+1)+" horas "+(minutos*0)+" minutos "+(segundos*0)+" segundos");
 		//Declaramos que si los segundos son 59, al sumarle un segundo da un minuto y se le suma a la hora que el usuario que ha introducido un minuto
 		} else if (segundos==59) {

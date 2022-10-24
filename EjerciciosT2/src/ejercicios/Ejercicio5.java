@@ -11,7 +11,7 @@ public class Ejercicio5 {
 		int num; //Número introducido por el usuario
 		//Introducimos e importamos el scanner para poder leer el teclado
 		Scanner sc = new Scanner(System.in);
-		//Le pedimos al usuari que por favor introduzca un número para calcular su valor absoluto.
+		//Le pedimos al usuario que por favor introduzca un número para calcular su valor absoluto.
 		
 		System.out.println("Por favor introduzca un número para calcular su valor absoluto: ");
 		num=sc.nextInt();
