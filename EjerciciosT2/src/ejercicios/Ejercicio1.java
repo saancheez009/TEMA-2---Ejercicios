@@ -2,12 +2,13 @@ package ejercicios;
 
 import java.util.Scanner;
 
-/*He realizado una primera prueba introduciendo el número 2002 y el sistema me ha devuelto que el número es capicúa. Luego he realizado otra prueba introduciendo el número 4586 y el sistema me devuelve que el número no es capicúa*/
+/*He realizado una primera prueba introduciendo el número 2002 y el sistema me ha devuelto que el número es capicúa.
+ *  Luego he realizado otra prueba introduciendo el número 4586 y el sistema me devuelve que el número no es capicúa*/
 /*Al introducir el número 367474 el sistema me ha devuelto que El valor introducido no corresponde a los datos requeridos ya que al ser un número mayor a 9999, el sistema no podrá resolverlo*/
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		//Introducimos las variales num, cociente, cociente1, cociente2, y resto mediante int
 		
 		int num; //Esta variable es el número que introduce el usuario por teclado

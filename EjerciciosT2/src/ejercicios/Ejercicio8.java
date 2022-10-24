@@ -1,12 +1,12 @@
 package ejercicios;
 
 import java.util.Scanner;
-//Para comprobar que el programa funciona correctamente, hemos introducido una distancia mayor a 800km y una estancia mayor a 7 días para que así se realice el descuento, al hacer esto, el sistema nos ha devuelto el valor del billete con un descuento del 30% aplicado.
-//Luego hemos introducido una estancia menor de 800km y una estancia menor a 7 días y el systema nos ha calculado el precio total del billete sin descuento ya que no cumple los requisitos del descuento
+//Para comprobar que el programa funciona correctamente, hemos introducido una distancia de 950km y una estancia de 10 días para que así se realice el descuento, al hacer esto, el sistema nos ha devuelto:" El precio de su billete es de 1662.5 euros. Ha obtenido un 30% de descuento al superar los 7 días de estancia y los 800km".
+//Luego hemos introducido una estancia menor de 500km y una estancia de 3 días y el sistema nos ha calculado el precio total del billete sin descuento ya que no cumple los requisitos del descuento. El precio total del billete es: 1250 euros
 public class Ejercicio8 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		
 		//Introducimos las variables distancia, días que son las que introducirá el usuario. Luego introducimos las variables para calcular el precio del billete ( variables: descuento, precioN y precioD)
 		//Declaramos también la constante precio, que es el precio por km recorrido

@@ -3,9 +3,9 @@ package ejercicios;
 import java.util.Scanner;
 
 public class Ejercicio6 {
-//Para comprobar que el código es correcto hemos sumado incorrectamente el número que el sistema nos ha dado y este nos devuelve que la suma no es correcta. Y al introducir la suma correcta de los números aleatorios que nos da el sistema, el sistema nos da la enhorabuena por hacer el cálculo correctamente.
+//Para comprobar que el código es correcto, hemos sumado incorrectamente los números que el sistema nos ha dado, que en este caso ha sido 32+14 (32+14=46) y nosotros hemos puesto como resultado 50 . Este nos devuelve que la suma no es correcta y nos muestra el resultado, que es 46. Y al introducir la suma correcta de los números aleatorios que nos da el sistema, que es 46, el sistema nos da la enhorabuena por hacer el cálculo correctamente.
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		// Declaramos las variables num1 y num2 que serán los dos números aleatorios que saldrán para que el usuario realice la suma
 				// Declaramos las variable sumaUsuario que es la suma que realiza el usuario de los dos números aleatorios
 				int num1; //primer número aleatorio

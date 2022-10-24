@@ -5,9 +5,10 @@ import java.util.Scanner;
 public class Ejercicio3 {
 
 	//Para comprobar que el código es correcto introducimos una cantidad en kilos de comida comprada, iintroducimos 50 kilos, y luego el número de perros, 40 perros, finalmente , introducimos el total de comida que comen los perros que es 50, al ser 50 igual al número de comida comprada, el sistema nos devuelve que hay comida suficiente
-	// Luego hemos introducido un número de comida comprada menor a los kilos que comen los perros al día, con ello el sistema nos muestra que no hay suficiente comida y hace el calculo de la ración que le corresponde a cada perro, el calculo es la division de la comida comprada entre el número de perros totales.	
+	// Luego hemos introducido un número de comida comprada menor a los kilos (20 kilos) que comen los perros al día (40 kilos), con ello el sistema nos muestra que no hay suficiente comida y hace el calculo de la ración que le corresponde a cada perro, el calculo es la division de la comida comprada entre el número de perros totales.
+	// Por tanto nos muestra que La ración para cada animal es: 0.5714285714285714 kg.
 		public static void main(String[] args) {
-			// TODO Auto-generated method stub
+			
 			//Declaramos las variables comidacomprada, numAnimales, KilosComida y racion
 			double comidaComprada; //Kilos de comida que el usuario ha comprado
 			int numAnimales; //Numero de perros totales que tiene el usuario

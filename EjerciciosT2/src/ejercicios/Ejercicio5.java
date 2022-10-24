@@ -1,11 +1,11 @@
 package ejercicios;
 
 import java.util.Scanner;
-// Para comprobar que el código es correcto he introducido en el teclado un número negativo y el sistema me calcula correctamente su valor absoluto.Y al introducir un número positivo me devuelve otro número positivo
+// Para comprobar que el código es correcto he introducido en el teclado EL NÚMERO -5 y el sistema me calcula correctamente su valor absoluto, por tanto me devuelve 5.Y al introducir un número positivo como el 8, me devuelve otro número positivo, el 8.
 public class Ejercicio5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		//Introducimos la variable num, que es el número que introducirá el usuario por el teclado
 		
 		int num; //Número introducido por el usuario

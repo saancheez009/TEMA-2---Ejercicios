@@ -5,10 +5,12 @@ import java.util.Scanner;
 public class Ejercicio4 {
 
 	// Para comprobar que el código es correcto, hemos introducido números del 10 al 29 y nos ha devuelto el número introducido correctamente
-	// Luego hemos introducidos varios nuemros a partir del 30 y nos ha devuelto el número escrito correctamente
+	// Luego hemos introducidos varios numeros a partir del 30 y nos ha devuelto el número escrito correctamente
+	// 30 -->TREINTA
+	//25 --> VEINTICINCO
 
 		public static void main(String[] args) {
-			// TODO Auto-generated method stub
+		
 			
 			//Declaramos las variables num , num1 y num2
 			int num; //Número introducido por el usuario

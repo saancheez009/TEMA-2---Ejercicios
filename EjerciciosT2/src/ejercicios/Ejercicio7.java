@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Ejercicio7 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		//Declaramos las variables horas, minutos y segundos, estas serán introducidas por el usuario mediante el teclado
 		int horas; // horas introducidas por el usuario
 		int minutos;  //minutos introducidos por el usuario

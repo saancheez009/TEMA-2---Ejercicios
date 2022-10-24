@@ -3,9 +3,10 @@ package ejercicios;
 import java.util.Scanner;
 
 public class Ejercicio2 {
-//Para comprobar que el código es correcto , he introduido número de Dni reales y he comprobado si el cálculo de la letra es correcto.
+//Para comprobar que el código es correcto , he introduido números de Dni reales y he comprobado si el cálculo de la letra es correcto.
+//He introducido mi dni que es 09236037 y me ha dado la letra L que es correcto
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		// Declaramos las variables NumDni que corresponde al número del dni y letra que corresponde a la letra resultante del dni
 		int NumDNI; //Corresponde al número del Dni introducido por el usuario
 		int letra; //Corresponde a la letra calculada por el sistema
